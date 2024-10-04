@@ -1,4 +1,4 @@
-# QR Code Genrator App
+# QR Code Generator App
 
 A Python script tool to generate QR Code in the browser. It uses `qrcode` a Python library to encode strings and generate a QR Code. For server it uses Flask Python library for online UI in HTML.
 
